@@ -1,0 +1,99 @@
+.sidebar{
+    background-color: #00173d;
+    color: #fff;
+    min-height: 93vh;
+    padding: 10px 22px 20px 14px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-left: 39px;
+}
+.sidebar .avatar{
+    height: 50px;
+   margin-bottom: 15px;
+}
+.manny img{
+    border: 1px solid white;
+    height: 50px;
+    padding: 0px 6px;
+    border-radius: 6px;
+}
+.nav-link a{
+    color: #000;
+    font-size: 35px;
+    background-color: #c2e8f8;
+    padding: 5px 35px 5px 20px;
+    border-radius: 20px;
+}
+.source  {
+    font-size: 30px;
+    margin-left: 500px;
+    /* justify-content:end; */
+    gap: 10px;
+    }
+    .diploma-card {
+        background-color: #3b6f71;
+        color: white;
+        border-radius: 10px;
+        padding: 15px;
+        text-align: center;
+        /* min-width: 200px; */
+    }
+    .diploma-card i {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .diploma-title {
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .diploma-code {
+        font-size: 14px;
+    }
+    .progress-card {
+        background-color: #0d2343;
+        color: white;
+        padding: 15px;
+        border-radius: 10px;
+        font-size: 16px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .progress-label {
+        font-weight: bold;
+    }
+    .progress-value {
+        font-size: 18px;
+    }
+    .icon-container {
+        position: absolute;
+        /* top: 20px; */
+        right: 70px;
+        display: flex;
+        gap: 15px;
+    
+    }
+    .icon-container i {
+        font-size: 1.5rem;
+        cursor: pointer;
+        color: #000;
+    }
+    .notification-dropdown {
+        width: 300px;
+        height: 620px;
+        /* overflow-y: auto; */
+        border: none;
+        outline: none;
+         }
+    .notification-item {
+        display: flex;
+        align-items: center;
+        padding: 10px;
+    }
+    .notification-item img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+    
